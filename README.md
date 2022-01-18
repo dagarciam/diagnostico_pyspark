@@ -4,13 +4,17 @@
 
 ## Instrucciones
 
-1. Realizar un fork de este repositorio a tu cuenta de github.
+1. Realizar un clone de este proyecto.
 2. Crear una rama que por nombre lleve tus iniciales a partir de la rama solution.
 3. Realizar los ejercicios solicitados abajo.
-4. Enviar por correo electrónico la notificación de finalización y el link al repositorio de solución.
-5. Haz que tu repositorio sea **PRIVADO** y brinda acceso de lectura a al usuario **_dagarciam_** únicamente
+4. Crear un repositorio vácio en tu cuenta que debe ser privado.
+5. Cambiar la url remote origin en tu clone local para apuntar a tu repositorio vacío.
+6. Sube los cambios a tu repositorio.
+7. Enviar por correo electronico la notificación de finalización y el link al repositorio de solución.
 
-**_No debes hacer PULL REQUEST_**
+_**Haz que tu repositorio sea privdo** y brinda acceso de lectrua a tu repositorio al usuario **dagarciam**_
+
+_**Toda PR a este repositorio será declinada y ocasionará la anulación del examen.**_
 
 ## ¿Qué evaluaremos?
 
